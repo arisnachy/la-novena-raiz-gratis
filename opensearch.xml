@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>La Novena Raiz</ShortName>
+  <Description>Buscar recursos de promocion de La Novena Raiz gratis en Kindle.</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Url type="text/html" template="https://arisnachy.github.io/la-novena-raiz-gratis/?q={searchTerms}"/>
+  <Url type="application/atom+xml;profile=opds-catalog" template="https://arisnachy.github.io/la-novena-raiz-gratis/opds.xml"/>
+</OpenSearchDescription>

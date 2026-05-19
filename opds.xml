@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:opds="http://opds-spec.org/2010/catalog"
+      xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>https://arisnachy.github.io/la-novena-raiz-gratis/opds.xml</id>
+  <title>La Novena Raiz gratis en Kindle</title>
+  <updated>2026-05-19T00:00:00-04:00</updated>
+  <author>
+    <name>A. V. Nareth</name>
+    <uri>https://www.amazon.com/A-V-Nareth/e/B0H2BPDPHC</uri>
+  </author>
+  <link rel="self" type="application/atom+xml;profile=opds-catalog" href="https://arisnachy.github.io/la-novena-raiz-gratis/opds.xml"/>
+  <link rel="start" type="text/html" href="https://arisnachy.github.io/la-novena-raiz-gratis/"/>
+  <link rel="alternate" type="text/html" href="https://www.amazon.com/dp/B0H1YTYWXV"/>
+  <link rel="search" type="application/opensearchdescription+xml" href="https://arisnachy.github.io/la-novena-raiz-gratis/opensearch.xml"/>
+  <subtitle>Catalogo publico para promocionar La Novena Raiz, Libro I de El Animal del Mundo, gratis por tiempo limitado en Kindle.</subtitle>
+  <entry>
+    <id>urn:asin:B0H1YTYWXV</id>
+    <title>La Novena Raiz: Libro I de El Animal del Mundo</title>
+    <updated>2026-05-19T00:00:00-04:00</updated>
+    <author>
+      <name>A. V. Nareth</name>
+      <uri>https://www.amazon.com/A-V-Nareth/e/B0H2BPDPHC</uri>
+    </author>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>A. V. Nareth</dcterms:publisher>
+    <dcterms:subject>Fantasy</dcterms:subject>
+    <dcterms:subject>Dark Fantasy</dcterms:subject>
+    <dcterms:subject>Spanish fantasy</dcterms:subject>
+    <category term="Fantasy" label="Fantasy"/>
+    <category term="Dark Fantasy" label="Dark Fantasy"/>
+    <summary>Fantasia oscura en espanol: una ciudad de permisos imposibles, criaturas originales, intriga politica y una raiz encerrada en vidrio. Gratis por tiempo limitado en Kindle.</summary>
+    <content type="text">La Novena Raiz es el Libro I de El Animal del Mundo, de A. V. Nareth. Oferta Kindle gratis: 0.00 USD por tiempo limitado. ASIN: B0H1YTYWXV.</content>
+    <link rel="http://opds-spec.org/acquisition/open-access" type="text/html" href="https://www.amazon.com/dp/B0H1YTYWXV" title="Descargar gratis en Amazon Kindle"/>
+    <link rel="alternate" type="text/html" href="https://arisnachy.github.io/la-novena-raiz-gratis/" title="Landing promocional"/>
+    <link rel="related" type="text/html" href="https://arisnachy.github.io/la-novena-raiz-gratis/press-kit.html" title="Press kit"/>
+    <link rel="related" type="text/html" href="https://arisnachy.github.io/la-novena-raiz-gratis/club-de-lectura.html" title="Guia para clubes de lectura"/>
+    <link rel="related" type="application/zip" href="https://arisnachy.github.io/la-novena-raiz-gratis/la-novena-raiz-press-kit.zip" title="ZIP completo del press kit"/>
+    <link rel="http://opds-spec.org/image" type="image/jpeg" href="https://arisnachy.github.io/la-novena-raiz-gratis/cover.jpg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" type="image/png" href="https://arisnachy.github.io/la-novena-raiz-gratis/social-card.png"/>
+  </entry>
+</feed>

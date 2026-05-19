@@ -5,4 +5,5 @@ Sitemap: https://arisnachy.github.io/la-novena-raiz-gratis/sitemap.xml
 Sitemap: https://arisnachy.github.io/la-novena-raiz-gratis/image-sitemap.xml
 Sitemap: https://arisnachy.github.io/la-novena-raiz-gratis/video-sitemap.xml
 Sitemap: https://arisnachy.github.io/la-novena-raiz-gratis/atom.xml
+Sitemap: https://arisnachy.github.io/la-novena-raiz-gratis/opds.xml
 Host: arisnachy.github.io
