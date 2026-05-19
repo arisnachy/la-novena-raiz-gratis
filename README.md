@@ -21,6 +21,7 @@ Si te gustan las sagas con mundos raros, misterio, mitologia propia y conflictos
 - Formato: Kindle
 - Genero: fantasia oscura, fantasia literaria, saga en espanol
 - Amazon: https://www.amazon.com/dp/B0H1YTYWXV
+- Enlace corto propio: https://arisnachy.github.io/la-novena-raiz-gratis/go.html
 - Pagina promocional: https://arisnachy.github.io/la-novena-raiz-gratis/
 
 ## Textos para compartir
