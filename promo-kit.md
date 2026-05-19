@@ -49,4 +49,4 @@ Es fantasia oscura con intriga politica, criaturas originales y una ciudad donde
 
 Enlace: https://www.amazon.com/dp/B0H1YTYWXV
 
-Si lo descargan y lo leen, una resena honesta ayuda mucho.
+Si lo obtienen en Amazon y lo leen, una resena honesta ayuda mucho.
