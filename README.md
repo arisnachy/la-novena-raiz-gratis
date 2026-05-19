@@ -42,6 +42,7 @@ Post en ingles:
 - Enlaces rapidos para compartir: https://arisnachy.github.io/la-novena-raiz-gratis/share.html
 - Assets publicos con portada y QR: https://arisnachy.github.io/la-novena-raiz-gratis/assets.html
 - Flyer imprimible: https://arisnachy.github.io/la-novena-raiz-gratis/flyer.html
+- Flyer PDF descargable: https://arisnachy.github.io/la-novena-raiz-gratis/la-novena-raiz-flyer.pdf
 - Datos estructurados del libro: https://arisnachy.github.io/la-novena-raiz-gratis/book.json
 - JSON Feed: https://arisnachy.github.io/la-novena-raiz-gratis/feed.json
 - Archivo para crawlers de IA: https://arisnachy.github.io/la-novena-raiz-gratis/llms.txt
