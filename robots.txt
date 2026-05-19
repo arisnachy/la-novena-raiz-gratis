@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arisnachy.github.io/la-novena-raiz-gratis/sitemap.xml
