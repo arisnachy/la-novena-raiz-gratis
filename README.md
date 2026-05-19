@@ -24,6 +24,7 @@ Si te gustan las sagas con mundos raros, misterio, mitologia propia y conflictos
 - Enlace corto propio: https://arisnachy.github.io/la-novena-raiz-gratis/go.html
 - Pagina promocional: https://arisnachy.github.io/la-novena-raiz-gratis/
 - Guia para clubes de lectura: https://arisnachy.github.io/la-novena-raiz-gratis/club-de-lectura.html
+- Topics publicos de GitHub: `kindle-free`, `free-kindle-book`, `spanish-fantasy`, `fantasia-oscura`, `ebook-gratis`, `libro-gratis`, `el-animal-del-mundo`, `a-v-nareth`
 
 ## Textos para compartir
 
