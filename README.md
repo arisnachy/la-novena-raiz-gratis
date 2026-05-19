@@ -54,6 +54,8 @@ Post en ingles:
 - Video sitemap: https://arisnachy.github.io/la-novena-raiz-gratis/video-sitemap.xml
 - Informe publico de promocion: https://arisnachy.github.io/la-novena-raiz-gratis/reporte.html
 - Press kit publico completo: https://arisnachy.github.io/la-novena-raiz-gratis/press-kit.html
+- Paquete de envio para directorios: https://arisnachy.github.io/la-novena-raiz-gratis/submission-packet.html
+- Paquete de envio Markdown: https://github.com/arisnachy/la-novena-raiz-gratis/blob/master/submission-packet.md
 - Ficha publica: https://arisnachy.github.io/la-novena-raiz-gratis/wiki.html
 - Canales revisados: https://arisnachy.github.io/la-novena-raiz-gratis/canales-revisados.html
 - Release publica: https://github.com/arisnachy/la-novena-raiz-gratis/releases/tag/gratis-kindle-2026-05-19
