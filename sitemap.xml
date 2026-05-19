@@ -6,4 +6,22 @@
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
+  <url>
+    <loc>https://arisnachy.github.io/la-novena-raiz-gratis/libros-gratis-kindle.html</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://arisnachy.github.io/la-novena-raiz-gratis/fantasia-oscura-espanol.html</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://arisnachy.github.io/la-novena-raiz-gratis/free-spanish-fantasy-kindle.html</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
