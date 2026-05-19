@@ -23,6 +23,7 @@ Si te gustan las sagas con mundos raros, misterio, mitologia propia y conflictos
 - Amazon: https://www.amazon.com/dp/B0H1YTYWXV
 - Enlace corto propio: https://arisnachy.github.io/la-novena-raiz-gratis/go.html
 - Pagina promocional: https://arisnachy.github.io/la-novena-raiz-gratis/
+- Textos para foros: https://arisnachy.github.io/la-novena-raiz-gratis/forum-posts.html
 - Guia para clubes de lectura: https://arisnachy.github.io/la-novena-raiz-gratis/club-de-lectura.html
 - Catalogo OPDS: https://arisnachy.github.io/la-novena-raiz-gratis/opds.xml
 - Discussion para clubes de lectura: https://github.com/arisnachy/la-novena-raiz-gratis/discussions/3
