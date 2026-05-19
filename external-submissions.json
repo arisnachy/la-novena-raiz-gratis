@@ -1,0 +1,66 @@
+[
+  {
+    "directory": "Free99Books",
+    "url": "https://free99books.com/tall-book-promotion/",
+    "status": "blocked",
+    "missing": ["email", "promo_dates", "regular_price"],
+    "requires_cover": true,
+    "notes": "FREE Book Promotion path exists; needs author/contact fields and cover."
+  },
+  {
+    "directory": "ContentMo Daily Deals",
+    "url": "https://contentmo.com/dailydeals",
+    "status": "blocked",
+    "missing": ["email", "promo_dates", "regular_price"],
+    "requires_cover": false,
+    "notes": "Standard placements currently free; needs email, genre, description and dates."
+  },
+  {
+    "directory": "FreeEBooks.com Amazon Promotions",
+    "url": "https://www.freeebooks.com/submit/",
+    "status": "blocked",
+    "missing": ["promo_dates"],
+    "requires_cover": false,
+    "notes": "Needs ASIN and promotion dates; form requires JavaScript."
+  },
+  {
+    "directory": "I Crave Freebies",
+    "url": "https://www.icravefreebies.com/free-kindle-book-submission/",
+    "status": "blocked",
+    "missing": ["email", "promo_dates"],
+    "requires_cover": false,
+    "notes": "Submission by email; recommends at least 2 days lead time."
+  },
+  {
+    "directory": "New Free Kindle Books",
+    "url": "https://newfreekindlebooks.com/authors/",
+    "status": "blocked",
+    "missing": ["email"],
+    "requires_cover": false,
+    "notes": "Comment/submission requires email."
+  },
+  {
+    "directory": "JustKindleBooks",
+    "url": "https://www.justkindlebooks.com/submit-your-book/",
+    "status": "blocked",
+    "missing": ["email", "promo_dates", "regular_price"],
+    "requires_cover": false,
+    "notes": "Free/budget path observed but requires author email."
+  },
+  {
+    "directory": "Pretty-Hot",
+    "url": "https://pretty-hot.com/submit-your-book/",
+    "status": "blocked",
+    "missing": ["email", "cover_permission"],
+    "requires_cover": true,
+    "notes": "Requires email, author bio and cover."
+  },
+  {
+    "directory": "BookBillboard",
+    "url": "https://www.bookbillboard.com/",
+    "status": "blocked",
+    "missing": ["email", "cover_permission"],
+    "requires_cover": true,
+    "notes": "Free cover/summary showcasing requires email and cover."
+  }
+]

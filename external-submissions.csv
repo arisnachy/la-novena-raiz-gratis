@@ -1,0 +1,13 @@
+directory,url,status,requires_login,requires_email,requires_dates,requires_regular_price,requires_cover,ready_when,notes
+Free99Books,https://free99books.com/tall-book-promotion/,blocked,false,true,true,true,true,"email; promo dates; regular price","FREE Book Promotion path exists; needs author/contact fields and cover"
+ContentMo Daily Deals,https://contentmo.com/dailydeals,blocked,false,true,true,true,false,"email; promo dates; regular price","Standard placements currently free; needs email genre description and dates"
+FreeEBooks.com Amazon Promotions,https://www.freeebooks.com/submit/,blocked,false,false,true,false,false,"promo dates","Needs ASIN and promo dates; form requires JavaScript"
+I Crave Freebies,https://www.icravefreebies.com/free-kindle-book-submission/,blocked,false,true,true,false,false,"email; promo dates","Submission by email; recommends at least 2 days lead time"
+New Free Kindle Books,https://newfreekindlebooks.com/authors/,blocked,false,true,false,false,false,"email","Comment/submission requires email"
+JustKindleBooks,https://www.justkindlebooks.com/submit-your-book/,blocked,false,true,true,true,false,"email; promo dates; regular price","Free/budget path observed but requires author email"
+Pretty-Hot,https://pretty-hot.com/submit-your-book/,blocked,false,true,false,false,true,"email; permission to use cover","Requires email author bio and cover"
+BookBillboard,https://www.bookbillboard.com/,blocked,false,true,false,false,true,"email; permission to use cover","Free cover/summary showcasing requires email and cover"
+Goodreads,https://www.goodreads.com/topic/show/1278424-post-your-free-ebook-here,blocked,true,false,false,false,false,"Goodreads login","Free ebook thread visible; posting requires login"
+Reddit,https://www.reddit.com/submit,blocked,true,false,false,false,false,"Reddit login","Submit flow redirects to login"
+Facebook,https://www.facebook.com/sharer/sharer.php,blocked,true,false,false,false,false,"Facebook login","Share flow requires login"
+X/Twitter,https://twitter.com/intent/tweet,blocked,true,false,false,false,false,"X login","Intent redirects to login"
