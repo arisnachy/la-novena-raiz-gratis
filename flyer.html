@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Flyer: La Novena Raiz gratis en Kindle</title>
+    <meta name="description" content="Flyer imprimible para promocionar La Novena Raiz gratis por tiempo limitado en Kindle.">
+    <link rel="canonical" href="https://arisnachy.github.io/la-novena-raiz-gratis/flyer.html">
+    <style>
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        background: #111b19;
+        color: #f5ead3;
+        font-family: Arial, sans-serif;
+      }
+      main {
+        width: min(900px, calc(100% - 24px));
+        margin: 24px auto;
+        border: 1px solid rgba(245, 234, 211, .24);
+        background: #08100f;
+        display: grid;
+        grid-template-columns: 42% 58%;
+        min-height: 720px;
+      }
+      .cover {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+      section {
+        padding: clamp(24px, 5vw, 56px);
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap: 22px;
+      }
+      .free {
+        color: #d7b46a;
+        font-weight: 900;
+        letter-spacing: .1em;
+        text-transform: uppercase;
+      }
+      h1 {
+        margin: 0;
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: clamp(3rem, 7vw, 6.5rem);
+        line-height: .9;
+      }
+      p {
+        margin: 0;
+        font-size: 1.2rem;
+        line-height: 1.55;
+      }
+      .qr-row {
+        display: grid;
+        grid-template-columns: 150px 1fr;
+        gap: 20px;
+        align-items: center;
+      }
+      .qr {
+        width: 150px;
+        height: auto;
+        background: #f5ead3;
+      }
+      a {
+        color: #d7b46a;
+        font-weight: 800;
+        overflow-wrap: anywhere;
+      }
+      @media (max-width: 760px) {
+        main { grid-template-columns: 1fr; }
+        .cover { max-height: 560px; }
+      }
+      @media print {
+        body { background: white; }
+        main { margin: 0; width: 100%; min-height: 100vh; }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <img class="cover" src="cover.jpg" alt="Portada de La Novena Raiz">
+      <section>
+        <div class="free">Gratis por tiempo limitado en Kindle</div>
+        <h1>La Novena Raiz</h1>
+        <p><strong>Libro I de El Animal del Mundo</strong><br>A. V. Nareth</p>
+        <p>Fantasia oscura en espanol: criaturas originales, intriga politica y una ciudad donde todo necesita permiso.</p>
+        <div class="qr-row">
+          <img class="qr" src="qr-amazon.png" alt="QR directo a Amazon">
+          <p>Escanea para descargar:<br><a href="https://www.amazon.com/dp/B0H1YTYWXV">amazon.com/dp/B0H1YTYWXV</a></p>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>
