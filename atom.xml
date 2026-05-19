@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arisnachy.github.io/la-novena-raiz-gratis/</id>
+  <title>La Novena Raiz gratis en Kindle</title>
+  <updated>2026-05-19T00:00:00-04:00</updated>
+  <link href="https://arisnachy.github.io/la-novena-raiz-gratis/" rel="alternate"/>
+  <link href="https://arisnachy.github.io/la-novena-raiz-gratis/atom.xml" rel="self"/>
+  <author>
+    <name>A. V. Nareth</name>
+  </author>
+  <subtitle>Promocion gratuita de La Novena Raiz, Libro I de El Animal del Mundo.</subtitle>
+  <entry>
+    <id>https://arisnachy.github.io/la-novena-raiz-gratis/#gratis-kindle-2026-05-19</id>
+    <title>La Novena Raiz gratis por tiempo limitado en Kindle</title>
+    <updated>2026-05-19T00:00:00-04:00</updated>
+    <link href="https://www.amazon.com/dp/B0H1YTYWXV" rel="alternate"/>
+    <summary>La Novena Raiz, Libro I de El Animal del Mundo, de A. V. Nareth, esta gratis por tiempo limitado en Kindle.</summary>
+    <content type="text">Fantasia oscura en espanol con criaturas originales, intriga politica y una ciudad donde todo necesita permiso. Descargar gratis: https://www.amazon.com/dp/B0H1YTYWXV</content>
+  </entry>
+  <entry>
+    <id>https://arisnachy.github.io/la-novena-raiz-gratis/press-kit.html</id>
+    <title>Press kit publico de La Novena Raiz</title>
+    <updated>2026-05-19T00:00:00-04:00</updated>
+    <link href="https://arisnachy.github.io/la-novena-raiz-gratis/press-kit.html" rel="alternate"/>
+    <summary>Enlaces, imagenes, video, QR, flyer y textos listos para promocionar La Novena Raiz gratis en Kindle.</summary>
+  </entry>
+  <entry>
+    <id>https://arisnachy.github.io/la-novena-raiz-gratis/reporte.html</id>
+    <title>Informe publico de promocion gratuita</title>
+    <updated>2026-05-19T00:00:00-04:00</updated>
+    <link href="https://arisnachy.github.io/la-novena-raiz-gratis/reporte.html" rel="alternate"/>
+    <summary>Reporte publico de canales, activos y verificaciones usados para promocionar La Novena Raiz gratis en Kindle.</summary>
+  </entry>
+</feed>

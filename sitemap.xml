@@ -61,6 +61,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://arisnachy.github.io/la-novena-raiz-gratis/atom.xml</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://arisnachy.github.io/la-novena-raiz-gratis/book.json</loc>
     <lastmod>2026-05-19</lastmod>
     <changefreq>daily</changefreq>

@@ -49,6 +49,7 @@ Post en ingles:
 - Flyer PDF descargable: https://arisnachy.github.io/la-novena-raiz-gratis/la-novena-raiz-flyer.pdf
 - Datos estructurados del libro: https://arisnachy.github.io/la-novena-raiz-gratis/book.json
 - JSON Feed: https://arisnachy.github.io/la-novena-raiz-gratis/feed.json
+- Atom Feed: https://arisnachy.github.io/la-novena-raiz-gratis/atom.xml
 - Archivo para crawlers de IA: https://arisnachy.github.io/la-novena-raiz-gratis/llms.txt
 - Image sitemap: https://arisnachy.github.io/la-novena-raiz-gratis/image-sitemap.xml
 - Video sitemap: https://arisnachy.github.io/la-novena-raiz-gratis/video-sitemap.xml
