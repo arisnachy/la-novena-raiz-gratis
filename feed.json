@@ -40,6 +40,13 @@
       "title": "Imagenes sociales para promocionar La Novena Raiz gratis",
       "content_text": "Imagen horizontal para redes y version vertical para stories, ambas con portada, QR y enlace de Amazon de La Novena Raiz.",
       "date_published": "2026-05-19T00:00:00-04:00"
+    },
+    {
+      "id": "video",
+      "url": "https://arisnachy.github.io/la-novena-raiz-gratis/video.html",
+      "title": "Video promocional de La Novena Raiz gratis",
+      "content_text": "Video promocional publico con enlace directo a Amazon para descargar La Novena Raiz gratis por tiempo limitado en Kindle.",
+      "date_published": "2026-05-19T00:00:00-04:00"
     }
   ]
 }
