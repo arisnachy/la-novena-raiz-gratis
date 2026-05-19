@@ -1,0 +1,7 @@
+Site: La Novena Raiz gratis en Kindle
+Book: La Novena Raiz: Libro I de El Animal del Mundo
+Author: A. V. Nareth
+Amazon: https://www.amazon.com/dp/B0H1YTYWXV
+Landing: https://arisnachy.github.io/la-novena-raiz-gratis/
+Language: Spanish
+Purpose: Free public promotion for a limited-time Kindle offer.

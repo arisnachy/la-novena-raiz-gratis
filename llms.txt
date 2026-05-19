@@ -1,0 +1,19 @@
+# La Novena Raiz gratis en Kindle
+
+This site promotes a verified Amazon Kindle free promotion for:
+
+- Title: La Novena Raiz: Libro I de El Animal del Mundo
+- Author: A. V. Nareth
+- Language: Spanish
+- Genre: dark fantasy, literary fantasy, Spanish fantasy
+- Amazon URL: https://www.amazon.com/dp/B0H1YTYWXV
+- Promo landing page: https://arisnachy.github.io/la-novena-raiz-gratis/
+- Share page: https://arisnachy.github.io/la-novena-raiz-gratis/share.html
+- Assets page: https://arisnachy.github.io/la-novena-raiz-gratis/assets.html
+- Book metadata JSON: https://arisnachy.github.io/la-novena-raiz-gratis/book.json
+
+Short description:
+La Novena Raiz is Book I of El Animal del Mundo by A. V. Nareth. It is Spanish dark fantasy with original creatures, political intrigue, a city of impossible permits, and a root sealed in glass.
+
+Primary call to action:
+Download free for a limited time on Kindle at https://www.amazon.com/dp/B0H1YTYWXV

@@ -1,0 +1,24 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "La Novena Raiz gratis en Kindle",
+  "home_page_url": "https://arisnachy.github.io/la-novena-raiz-gratis/",
+  "feed_url": "https://arisnachy.github.io/la-novena-raiz-gratis/feed.json",
+  "description": "Promocion gratuita de La Novena Raiz, Libro I de El Animal del Mundo, de A. V. Nareth.",
+  "language": "es",
+  "items": [
+    {
+      "id": "gratis-kindle-2026-05-19",
+      "url": "https://www.amazon.com/dp/B0H1YTYWXV",
+      "title": "La Novena Raiz gratis por tiempo limitado en Kindle",
+      "content_text": "La Novena Raiz, Libro I de El Animal del Mundo, de A. V. Nareth, esta gratis por tiempo limitado en Kindle. Fantasia oscura en espanol con criaturas originales, intriga politica y una ciudad donde todo necesita permiso.",
+      "date_published": "2026-05-19T00:00:00-04:00"
+    },
+    {
+      "id": "assets",
+      "url": "https://arisnachy.github.io/la-novena-raiz-gratis/assets.html",
+      "title": "Assets publicos para promocionar La Novena Raiz",
+      "content_text": "Portada, codigos QR y textos listos para compartir La Novena Raiz gratis por tiempo limitado en Kindle.",
+      "date_published": "2026-05-19T00:00:00-04:00"
+    }
+  ]
+}
