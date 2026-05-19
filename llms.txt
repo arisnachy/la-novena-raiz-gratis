@@ -17,3 +17,8 @@ La Novena Raiz is Book I of El Animal del Mundo by A. V. Nareth. It is Spanish d
 
 Primary call to action:
 Download free for a limited time on Kindle at https://www.amazon.com/dp/B0H1YTYWXV
+
+Offer metadata:
+- Price: 0.00 USD
+- Availability: InStock
+- Category: Free Kindle promotion

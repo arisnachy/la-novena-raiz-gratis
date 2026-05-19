@@ -25,5 +25,13 @@
   "potentialAction": {
     "@type": "ReadAction",
     "target": "https://www.amazon.com/dp/B0H1YTYWXV"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://www.amazon.com/dp/B0H1YTYWXV",
+    "price": "0.00",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+    "category": "Free Kindle promotion"
   }
 }
