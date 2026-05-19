@@ -7,6 +7,7 @@ New Free Kindle Books,https://newfreekindlebooks.com/authors/,blocked,false,true
 JustKindleBooks,https://www.justkindlebooks.com/submit-your-book/,blocked,false,true,true,true,false,"email; promo dates; regular price","Free/budget path observed but requires author email"
 Pretty-Hot,https://pretty-hot.com/submit-your-book/,blocked,false,true,false,false,true,"email; permission to use cover","Requires email author bio and cover"
 BookBillboard,https://www.bookbillboard.com/,blocked,false,true,false,false,true,"email; permission to use cover","Free cover/summary showcasing requires email and cover"
+Humanmade Regular Listing,https://humanmade.net/submission-form,blocked,false,true,false,false,true,"email; author bio; author country; cover/photo permission","Regular Listing is free; form requires name email author profile biography country book description genre and related links"
 Goodreads,https://www.goodreads.com/topic/show/1278424-post-your-free-ebook-here,blocked,true,false,false,false,false,"Goodreads login","Free ebook thread visible; posting requires login"
 Reddit,https://www.reddit.com/submit,blocked,true,false,false,false,false,"Reddit login","Submit flow redirects to login"
 Facebook,https://www.facebook.com/sharer/sharer.php,blocked,true,false,false,false,false,"Facebook login","Share flow requires login"

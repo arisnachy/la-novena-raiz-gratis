@@ -62,5 +62,13 @@
     "missing": ["email", "cover_permission"],
     "requires_cover": true,
     "notes": "Free cover/summary showcasing requires email and cover."
+  },
+  {
+    "directory": "Humanmade Regular Listing",
+    "url": "https://humanmade.net/submission-form",
+    "status": "blocked",
+    "missing": ["email", "author_bio", "author_country", "cover_permission"],
+    "requires_cover": true,
+    "notes": "Regular Listing is free; form requires name, email, author profile biography, country, book description, genre and related links."
   }
 ]
