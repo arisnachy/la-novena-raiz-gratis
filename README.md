@@ -39,5 +39,6 @@ Post en ingles:
 - Libro gratis Kindle: https://arisnachy.github.io/la-novena-raiz-gratis/libros-gratis-kindle.html
 - Fantasia oscura en espanol: https://arisnachy.github.io/la-novena-raiz-gratis/fantasia-oscura-espanol.html
 - Free Spanish fantasy Kindle book: https://arisnachy.github.io/la-novena-raiz-gratis/free-spanish-fantasy-kindle.html
+- Enlaces rapidos para compartir: https://arisnachy.github.io/la-novena-raiz-gratis/share.html
 - Release publica: https://github.com/arisnachy/la-novena-raiz-gratis/releases/tag/gratis-kindle-2026-05-19
 - Kit de promocion: https://github.com/arisnachy/la-novena-raiz-gratis/blob/master/promo-kit.md
