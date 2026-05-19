@@ -50,6 +50,8 @@ Post en ingles:
 - Datos estructurados del libro: https://arisnachy.github.io/la-novena-raiz-gratis/book.json
 - JSON Feed: https://arisnachy.github.io/la-novena-raiz-gratis/feed.json
 - Archivo para crawlers de IA: https://arisnachy.github.io/la-novena-raiz-gratis/llms.txt
+- Image sitemap: https://arisnachy.github.io/la-novena-raiz-gratis/image-sitemap.xml
+- Video sitemap: https://arisnachy.github.io/la-novena-raiz-gratis/video-sitemap.xml
 - Ficha publica: https://arisnachy.github.io/la-novena-raiz-gratis/wiki.html
 - Canales revisados: https://arisnachy.github.io/la-novena-raiz-gratis/canales-revisados.html
 - Release publica: https://github.com/arisnachy/la-novena-raiz-gratis/releases/tag/gratis-kindle-2026-05-19

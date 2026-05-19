@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://arisnachy.github.io/la-novena-raiz-gratis/video.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://arisnachy.github.io/la-novena-raiz-gratis/social-card.png</video:thumbnail_loc>
+      <video:title>Video promocional de La Novena Raiz gratis en Kindle</video:title>
+      <video:description>Video promocional publico de La Novena Raiz: Libro I de El Animal del Mundo, de A. V. Nareth, gratis por tiempo limitado en Kindle.</video:description>
+      <video:content_loc>https://arisnachy.github.io/la-novena-raiz-gratis/video-promo.mp4</video:content_loc>
+      <video:publication_date>2026-05-19T00:00:00-04:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:requires_subscription>no</video:requires_subscription>
+    </video:video>
+  </url>
+</urlset>
