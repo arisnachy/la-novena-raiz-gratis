@@ -40,6 +40,7 @@ Post en ingles:
 - Fantasia oscura en espanol: https://arisnachy.github.io/la-novena-raiz-gratis/fantasia-oscura-espanol.html
 - Free Spanish fantasy Kindle book: https://arisnachy.github.io/la-novena-raiz-gratis/free-spanish-fantasy-kindle.html
 - Enlaces rapidos para compartir: https://arisnachy.github.io/la-novena-raiz-gratis/share.html
+- Assets publicos con portada y QR: https://arisnachy.github.io/la-novena-raiz-gratis/assets.html
 - Ficha publica: https://arisnachy.github.io/la-novena-raiz-gratis/wiki.html
 - Canales revisados: https://arisnachy.github.io/la-novena-raiz-gratis/canales-revisados.html
 - Release publica: https://github.com/arisnachy/la-novena-raiz-gratis/releases/tag/gratis-kindle-2026-05-19
