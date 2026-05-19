@@ -12,6 +12,10 @@
 - JustKindleBooks: https://www.justkindlebooks.com/submit-your-book/
 - Pretty-Hot: https://pretty-hot.com/submit-your-book/
 - BookBillboard: https://www.bookbillboard.com/
+- Free99Books: https://free99books.com/tall-book-promotion/ - tiene opcion de FREE Book Promotion, pero requiere nombre, email, portada, fecha inicio/fin, precio regular y enlace Amazon.
+- ContentMo Daily Deals: https://contentmo.com/dailydeals - standard placements actualmente gratis, pero requiere email, genero, descripcion y fechas.
+- FreeEBooks.com Amazon Promotions: https://www.freeebooks.com/submit/ - pide ASIN y fechas de promocion; el formulario requiere JavaScript.
+- I Crave Freebies: https://www.icravefreebies.com/free-kindle-book-submission/ - acepta submissions de autores, pero pide enviar por email y recomienda avisar al menos 2 dias antes.
 
 ## Bloqueado por login
 
@@ -24,3 +28,5 @@
 
 - Ereader News Today: acepta gratis como precio del libro, pero la promocion Fantasy figura con tarifa.
 - Freebooksy: editorial consideration puede ser gratis, pero la feature principal es pagada y requiere aviso previo.
+- BookDoggy: promocion de libro gratis es pagada.
+- Humanmade: promocion tiene tarifa minima.
