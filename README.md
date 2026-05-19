@@ -2,7 +2,7 @@
 
 **La Novena Raiz: Libro I de El Animal del Mundo**, de **A. V. Nareth**, esta gratis por tiempo limitado en Kindle.
 
-Descarga directa en Amazon:
+Enlace oficial en Amazon:
 https://www.amazon.com/dp/B0H1YTYWXV
 
 Pagina promocional:
@@ -33,11 +33,11 @@ Si te gustan las sagas con mundos raros, misterio, mitologia propia y conflictos
 
 Post corto:
 
-> Gratis por tiempo limitado en Kindle: La Novena Raiz, Libro I de El Animal del Mundo, de A. V. Nareth. Fantasia oscura en espanol, criaturas originales, intriga politica y una ciudad donde todo necesita permiso. Descarga: https://www.amazon.com/dp/B0H1YTYWXV
+> Gratis por tiempo limitado en Kindle: La Novena Raiz, Libro I de El Animal del Mundo, de A. V. Nareth. Fantasia oscura en espanol, criaturas originales, intriga politica y una ciudad donde todo necesita permiso. Amazon: https://www.amazon.com/dp/B0H1YTYWXV
 
 Post en ingles:
 
-> Free for a limited time on Kindle: La Novena Raiz, Book I of El Animal del Mundo by A. V. Nareth. Spanish dark fantasy with original creatures, political intrigue, and a city where everything requires permission. Download: https://www.amazon.com/dp/B0H1YTYWXV
+> Free for a limited time on Kindle: La Novena Raiz, Book I of El Animal del Mundo by A. V. Nareth. Spanish dark fantasy with original creatures, political intrigue, and a city where everything requires permission. Amazon: https://www.amazon.com/dp/B0H1YTYWXV
 
 ## Enlaces publicos de la promocion
 
@@ -61,7 +61,6 @@ Post en ingles:
 - Video sitemap: https://arisnachy.github.io/la-novena-raiz-gratis/video-sitemap.xml
 - Informe publico de promocion: https://arisnachy.github.io/la-novena-raiz-gratis/reporte.html
 - Press kit publico completo: https://arisnachy.github.io/la-novena-raiz-gratis/press-kit.html
-- Press kit ZIP completo: https://arisnachy.github.io/la-novena-raiz-gratis/la-novena-raiz-press-kit.zip
 - Paquete de envio para directorios: https://arisnachy.github.io/la-novena-raiz-gratis/submission-packet.html
 - Paquete de envio Markdown: https://github.com/arisnachy/la-novena-raiz-gratis/blob/master/submission-packet.md
 - Drafts por directorio externo: https://arisnachy.github.io/la-novena-raiz-gratis/directory-drafts.html

@@ -6,7 +6,7 @@ La Novena Raiz: Libro I de El Animal del Mundo
 Autor:
 A. V. Nareth
 
-Enlace de descarga:
+Enlace oficial en Amazon:
 https://www.amazon.com/dp/B0H1YTYWXV
 
 Pagina promocional:
@@ -18,7 +18,7 @@ Gratis por tiempo limitado en Kindle: La Novena Raiz, Libro I de El Animal del M
 
 Fantasia oscura en espanol, criaturas originales, intriga politica y una ciudad donde todo necesita permiso.
 
-Descarga: https://www.amazon.com/dp/B0H1YTYWXV
+Amazon: https://www.amazon.com/dp/B0H1YTYWXV
 
 #LibrosGratis #Kindle #Fantasia #DarkFantasy #ElAnimalDelMundo
 
@@ -28,7 +28,7 @@ Free for a limited time on Kindle: La Novena Raiz, Book I of El Animal del Mundo
 
 Dark fantasy in Spanish, original creatures, political intrigue, and a city where everything needs permission.
 
-Download: https://www.amazon.com/dp/B0H1YTYWXV
+Amazon: https://www.amazon.com/dp/B0H1YTYWXV
 
 #FreeEbooks #Kindle #Fantasy #DarkFantasy #SpanishBooks
 

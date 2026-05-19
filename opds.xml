@@ -31,11 +31,10 @@
     <category term="Dark Fantasy" label="Dark Fantasy"/>
     <summary>Fantasia oscura en espanol: una ciudad de permisos imposibles, criaturas originales, intriga politica y una raiz encerrada en vidrio. Gratis por tiempo limitado en Kindle.</summary>
     <content type="text">La Novena Raiz es el Libro I de El Animal del Mundo, de A. V. Nareth. Oferta Kindle gratis: 0.00 USD por tiempo limitado. ASIN: B0H1YTYWXV.</content>
-    <link rel="http://opds-spec.org/acquisition/open-access" type="text/html" href="https://www.amazon.com/dp/B0H1YTYWXV" title="Descargar gratis en Amazon Kindle"/>
+    <link rel="http://opds-spec.org/acquisition/open-access" type="text/html" href="https://www.amazon.com/dp/B0H1YTYWXV" title="Obtener gratis en Amazon Kindle"/>
     <link rel="alternate" type="text/html" href="https://arisnachy.github.io/la-novena-raiz-gratis/" title="Landing promocional"/>
     <link rel="related" type="text/html" href="https://arisnachy.github.io/la-novena-raiz-gratis/press-kit.html" title="Press kit"/>
     <link rel="related" type="text/html" href="https://arisnachy.github.io/la-novena-raiz-gratis/club-de-lectura.html" title="Guia para clubes de lectura"/>
-    <link rel="related" type="application/zip" href="https://arisnachy.github.io/la-novena-raiz-gratis/la-novena-raiz-press-kit.zip" title="ZIP completo del press kit"/>
     <link rel="http://opds-spec.org/image" type="image/jpeg" href="https://arisnachy.github.io/la-novena-raiz-gratis/cover.jpg"/>
     <link rel="http://opds-spec.org/image/thumbnail" type="image/png" href="https://arisnachy.github.io/la-novena-raiz-gratis/social-card.png"/>
   </entry>
