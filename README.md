@@ -41,6 +41,8 @@ Post en ingles:
 - Free Spanish fantasy Kindle book: https://arisnachy.github.io/la-novena-raiz-gratis/free-spanish-fantasy-kindle.html
 - Enlaces rapidos para compartir: https://arisnachy.github.io/la-novena-raiz-gratis/share.html
 - Assets publicos con portada y QR: https://arisnachy.github.io/la-novena-raiz-gratis/assets.html
+- Imagen horizontal para redes: https://arisnachy.github.io/la-novena-raiz-gratis/social-card.png
+- Imagen vertical para stories: https://arisnachy.github.io/la-novena-raiz-gratis/story-card.png
 - Flyer imprimible: https://arisnachy.github.io/la-novena-raiz-gratis/flyer.html
 - Flyer PDF descargable: https://arisnachy.github.io/la-novena-raiz-gratis/la-novena-raiz-flyer.pdf
 - Datos estructurados del libro: https://arisnachy.github.io/la-novena-raiz-gratis/book.json
