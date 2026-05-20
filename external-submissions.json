@@ -126,5 +126,13 @@
     "missing": ["open_registration"],
     "requires_cover": true,
     "notes": "Spanish Kindle/free-reader event found; registration page says the signup period has ended."
+  },
+  {
+    "directory": "Book Reader Magazine Author Interview",
+    "url": "https://bookreadermagazine.com/featured-author-interview-series/",
+    "status": "submitted",
+    "missing": [],
+    "requires_cover": false,
+    "notes": "Free author interview submitted with Amazon link and landing; confirmation displayed: Thanks for contacting us! We will get in touch with you shortly."
   }
 ]
