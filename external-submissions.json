@@ -406,5 +406,37 @@
     "missing": ["in_stock", "english_language_book"],
     "requires_cover": false,
     "notes": "Free Facebook/Twitter promo is priced at $0.00 but currently out of stock and requires submitted eligible books to be written in English."
+  },
+  {
+    "directory": "ShoutMyBook Free Social Shout-Out",
+    "url": "https://shoutmybook.com/promote-your-book-for-free-on-social-media/",
+    "status": "blocked",
+    "missing": ["live_submission_form"],
+    "requires_cover": false,
+    "notes": "Free social shout-out page advertises a tweet to about 100,000 followers, but the live page says: Oops! We could not locate your form."
+  },
+  {
+    "directory": "AuthorsDen Book Listing",
+    "url": "https://www.authorsden.com/join/",
+    "status": "blocked",
+    "missing": ["author_account"],
+    "requires_cover": false,
+    "notes": "Literary community supports author/book pages, but the live join flow requires account creation with password and paid/member account options before adding books."
+  },
+  {
+    "directory": "Indie Book Lounge Free Listing",
+    "url": "https://indiebooklounge.com/",
+    "status": "blocked",
+    "missing": ["author_account"],
+    "requires_cover": false,
+    "notes": "Indie Book Lounge lists free Kindle ebooks, but adding a title requires author account/login through its ASP.NET member flow."
+  },
+  {
+    "directory": "Wanton Reads No Cost Promotion",
+    "url": "https://wantonreads.com/free-book-promotion/",
+    "status": "blocked",
+    "missing": ["live_submission_page"],
+    "requires_cover": false,
+    "notes": "No-cost promotion page is listed as an Amazon-friendly reader link option, but the live URL ended the connection unexpectedly."
   }
 ]
