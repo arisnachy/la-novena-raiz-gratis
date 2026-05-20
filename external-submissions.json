@@ -142,5 +142,37 @@
     "missing": [],
     "requires_cover": false,
     "notes": "Free dark fiction/fantasy author spotlight submitted with Amazon link first; confirmation displayed: Thank you for your response."
+  },
+  {
+    "directory": "BookGoodies Author Interview",
+    "url": "https://bookgoodies.com/contact-us/author-self-serve-interview/",
+    "status": "blocked",
+    "missing": ["human_verification"],
+    "requires_cover": false,
+    "notes": "Free author interview form filled with landing and Amazon-free messaging, but final submit stopped at human verification."
+  },
+  {
+    "directory": "Fantasia Reviews Author Interview",
+    "url": "https://fantasiareviews.com/author-interview-submission/",
+    "status": "blocked",
+    "missing": ["wordpress_login_or_access"],
+    "requires_cover": false,
+    "notes": "Search result shows a free fantasy author interview page, but live page is private and requires WordPress login/access."
+  },
+  {
+    "directory": "Fantasy Book Place Author Interview",
+    "url": "https://fantasybookplace.com/author-interview/",
+    "status": "blocked",
+    "missing": ["human_verification"],
+    "requires_cover": false,
+    "notes": "Fantasy-specific interview form filled with official landing and Amazon-only acquisition wording, but final submit stopped at human verification."
+  },
+  {
+    "directory": "Brandon Rohrbaugh Indie Author Spotlights",
+    "url": "https://www.brandonrohrbaugh.com/indie-author-spotlights",
+    "status": "blocked",
+    "missing": ["live_submission_page"],
+    "requires_cover": false,
+    "notes": "Search result describes free indie author spotlight with Amazon buy link, but live navigation returned a page-not-found state."
   }
 ]
