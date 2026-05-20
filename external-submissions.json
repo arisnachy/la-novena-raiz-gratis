@@ -174,5 +174,53 @@
     "missing": ["live_submission_page"],
     "requires_cover": false,
     "notes": "Search result describes free indie author spotlight with Amazon buy link, but live navigation returned a page-not-found state."
+  },
+  {
+    "directory": "Dear Fantasy Reader Podcast",
+    "url": "https://www.dearfantasyreader.com/faqs-dfa",
+    "status": "blocked",
+    "missing": ["captcha"],
+    "requires_cover": false,
+    "notes": "Fantasy/romantasy interview pitch form filled with Amazon link first, but final submit failed with captcha validation."
+  },
+  {
+    "directory": "The Author's Lens Get Interviewed",
+    "url": "https://www.theauthorslens.com/get-featured",
+    "status": "blocked",
+    "missing": ["recaptcha"],
+    "requires_cover": false,
+    "notes": "Free interview request form filled with Amazon link and official landing, but final submit opened a reCAPTCHA human verification dialog."
+  },
+  {
+    "directory": "BookGoodies Free eBook Listing",
+    "url": "https://bookgoodies.com/advertising/advertise-your-free-book-days/",
+    "status": "blocked",
+    "missing": ["payment", "promo_dates", "cover"],
+    "requires_cover": true,
+    "notes": "Free-book listing targets readers/newsletter but current form requires paid spotlight package starting at $13."
+  },
+  {
+    "directory": "BookDoggy Free eBook Listing",
+    "url": "https://bookdoggy.com/for-authors-2/",
+    "status": "blocked",
+    "missing": ["payment", "regular_price", "promo_dates"],
+    "requires_cover": false,
+    "notes": "BookDoggy accepts Amazon links for free eBooks, but current free eBook promotion costs $21 via PayPal."
+  },
+  {
+    "directory": "AuthorsWiki Free Author Interview",
+    "url": "https://www.authorswiki.com/free-author-interview/",
+    "status": "blocked",
+    "missing": ["author_photo", "author_written_answers"],
+    "requires_cover": false,
+    "notes": "Free interview exists, but guidelines require a real author photo and author-written answers; not submitted by agent."
+  },
+  {
+    "directory": "Winn Publications Author Interview",
+    "url": "https://winnpublications.com/author-interview-feature/",
+    "status": "blocked",
+    "missing": ["author_photo"],
+    "requires_cover": false,
+    "notes": "Free interview exists with social promotion, but requires author photo and Google form submission; not completed without author-provided image."
   }
 ]
