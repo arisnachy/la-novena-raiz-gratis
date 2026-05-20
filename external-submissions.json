@@ -86,5 +86,45 @@
     "missing": ["captcha"],
     "requires_cover": false,
     "notes": "Free form accepts ASIN, purchase link, FREE promotion and dates, but requires a visual captcha before submission."
+  },
+  {
+    "directory": "It's Write Now Check My Book",
+    "url": "https://itswritenow.com/check-my-book/",
+    "status": "blocked",
+    "missing": ["email"],
+    "requires_cover": false,
+    "notes": "Free ASIN check exists, but it requires author name and email before submission."
+  },
+  {
+    "directory": "Great Books Great Deals",
+    "url": "https://greatbooksgreatdeals.wufoo.com/forms/q1xnjyai16jrl05/",
+    "status": "blocked",
+    "missing": ["payment", "email", "captcha", "promo_dates"],
+    "requires_cover": false,
+    "notes": "Active reader site, but current author form charges $8/$10 and is protected by reCAPTCHA Enterprise."
+  },
+  {
+    "directory": "BookPraiser Free Editorial Submission",
+    "url": "https://bookpraiser.com/submit-your-free-book-to-bookpraiser/",
+    "status": "blocked",
+    "missing": ["email", "promo_dates"],
+    "requires_cover": false,
+    "notes": "Free editorial submission exists, but requires author email and exact promotion dates; additional store-link fields are present."
+  },
+  {
+    "directory": "Bookangel UK",
+    "url": "https://bookangel.co.uk/submit-a-book/",
+    "status": "blocked",
+    "missing": ["email", "amazon_uk_free_availability"],
+    "requires_cover": false,
+    "notes": "Free UK listing exists only for Amazon.co.uk free/99p offers and requires author email."
+  },
+  {
+    "directory": "Rellena Tu Kindle",
+    "url": "https://rellenatukindle.es/register.html",
+    "status": "blocked",
+    "missing": ["open_registration"],
+    "requires_cover": true,
+    "notes": "Spanish Kindle/free-reader event found; registration page says the signup period has ended."
   }
 ]
