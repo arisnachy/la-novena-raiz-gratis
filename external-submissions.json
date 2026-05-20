@@ -350,5 +350,21 @@
     "missing": ["review_count_evidence", "rating_evidence"],
     "requires_cover": false,
     "notes": "Free promotion form is active and Amazon-based, but requirements include at least 3 Amazon reviews and 3.5+ rating; no verified evidence available."
+  },
+  {
+    "directory": "Book Bongo Free Bongo Boost",
+    "url": "https://bookbongo.com/submit",
+    "status": "blocked",
+    "missing": ["live_submission_endpoint"],
+    "requires_cover": false,
+    "notes": "Book Bongo reaches Kindle deal readers and has a free social-sharing option, but live submit/book-promotion endpoints ended connections unexpectedly; contact page loaded but no reliable no-captcha submission form was available."
+  },
+  {
+    "directory": "Book of the Day Unfiltered",
+    "url": "https://bookoftheday.org/add-book-form-unfiltered/",
+    "status": "blocked",
+    "missing": ["dns_resolution"],
+    "requires_cover": false,
+    "notes": "Unfiltered listing is described as fast/easy/free for sale announcements, but live checks for add-book and add-book-form-unfiltered failed because bookoftheday.org did not resolve."
   }
 ]
