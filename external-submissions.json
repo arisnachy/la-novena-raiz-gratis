@@ -288,6 +288,14 @@
     "notes": "Free Kindle deal submission accepted with ASIN B0H1YTYWXV, Fantasy genre, technical email, optional pitch, and API confirmation: Submission received; review/listing expected within 24-48 hours."
   },
   {
+    "directory": "Bookzio Free Book Promotion",
+    "url": "https://www.bookzio.com/free-book-promotion/",
+    "status": "submitted",
+    "missing": [],
+    "requires_cover": true,
+    "notes": "Free book promotion submitted with Dark & Urban Fantasy category, Free deal price, 05/20/2026 promotion window, cover image, and Amazon.com as the only availability link; confirmation displayed: You have submitted 'La Novena Raiz: Libro I de El Animal del Mundo' successfully."
+  },
+  {
     "directory": "Armadillo eBooks / CraveBooks Free Submission",
     "url": "https://cravebooks.com/submit-free-books?promotion_site=submitfreebooks&site_name=armadilloebooks",
     "status": "blocked",
