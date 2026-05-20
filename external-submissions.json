@@ -254,5 +254,21 @@
     "missing": [],
     "requires_cover": false,
     "notes": "Free editorial submission completed via Typeform for Fantasy / Paranormal; Amazon link used; confirmation displayed: Thanks for completing this typeform."
+  },
+  {
+    "directory": "Digital Book Today Guaranteed Promotion",
+    "url": "https://digitalbooktoday.com/promotions/",
+    "status": "blocked",
+    "missing": ["payment", "rating_evidence", "review_count_evidence"],
+    "requires_cover": false,
+    "notes": "Guaranteed promotion path reaches Digital Book Today's reader audience, but the free-book options shown are paid ($18 established or $20 new release) and include rating/review requirements; not submitted as a free action."
+  },
+  {
+    "directory": "Digital Book Today Free Promotion Request",
+    "url": "https://digitalbooktoday.com/promotions/promote-permanently-free-book/",
+    "status": "blocked",
+    "missing": ["rating_evidence", "review_count_evidence"],
+    "requires_cover": false,
+    "notes": "Free request form exists, but limited-time free books must have at least 4.2 stars and 30 Amazon ratings; no verified evidence available, so it was not submitted."
   }
 ]
