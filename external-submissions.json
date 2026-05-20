@@ -10,10 +10,10 @@
   {
     "directory": "ContentMo Daily Deals",
     "url": "https://contentmo.com/dailydeals",
-    "status": "blocked",
-    "missing": ["email", "promo_dates", "regular_price"],
+    "status": "submitted",
+    "missing": [],
     "requires_cover": false,
-    "notes": "Standard placements currently free; needs email, genre, description and dates."
+    "notes": "Standard placement submitted with Amazon link, Free price, genres and technical email."
   },
   {
     "directory": "FreeEBooks.com Amazon Promotions",
@@ -34,10 +34,10 @@
   {
     "directory": "New Free Kindle Books",
     "url": "https://newfreekindlebooks.com/authors/",
-    "status": "blocked",
-    "missing": ["email"],
+    "status": "submitted",
+    "missing": [],
     "requires_cover": false,
-    "notes": "Comment/submission requires email."
+    "notes": "Free listing submitted with Amazon link, Free price, technical email and 05/20/2026 promotion window."
   },
   {
     "directory": "JustKindleBooks",
