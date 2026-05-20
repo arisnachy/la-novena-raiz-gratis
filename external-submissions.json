@@ -270,5 +270,13 @@
     "missing": ["rating_evidence", "review_count_evidence"],
     "requires_cover": false,
     "notes": "Free request form exists, but limited-time free books must have at least 4.2 stars and 30 Amazon ratings; no verified evidence available, so it was not submitted."
+  },
+  {
+    "directory": "Awesome Fantasy Books",
+    "url": "https://awesomefantasybooks.com/fantasy-book-promotion/",
+    "status": "submitted",
+    "missing": [],
+    "requires_cover": true,
+    "notes": "Free fantasy-book promotion submitted with Featured Book Listing set to No Thank You ($0.00), Dark category, reduced cover, Amazon link only, and confirmation displayed: Thanks for contacting us! We will get in touch with you shortly."
   }
 ]
