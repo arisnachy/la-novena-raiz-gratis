@@ -278,5 +278,29 @@
     "missing": [],
     "requires_cover": true,
     "notes": "Free fantasy-book promotion submitted with Featured Book Listing set to No Thank You ($0.00), Dark category, reduced cover, Amazon link only, and confirmation displayed: Thanks for contacting us! We will get in touch with you shortly."
+  },
+  {
+    "directory": "Book Deal Finder Author Submission",
+    "url": "https://www.bookdealfinder.com/for-authors/submit",
+    "status": "submitted",
+    "missing": [],
+    "requires_cover": false,
+    "notes": "Free Kindle deal submission accepted with ASIN B0H1YTYWXV, Fantasy genre, technical email, optional pitch, and API confirmation: Submission received; review/listing expected within 24-48 hours."
+  },
+  {
+    "directory": "Armadillo eBooks / CraveBooks Free Submission",
+    "url": "https://cravebooks.com/submit-free-books?promotion_site=submitfreebooks&site_name=armadilloebooks",
+    "status": "blocked",
+    "missing": ["author_account", "email_verification"],
+    "requires_cover": true,
+    "notes": "Free promotion page advertises reach to 200,000+ readers and supports Amazon/Kobo/Apple/Nook links, but step 1 requires creating an account and verifying email before scheduling promotions."
+  },
+  {
+    "directory": "Freebies 4 Mom Share Free eBooks",
+    "url": "https://freebies4mom.com/tag/share-free-ebooks/",
+    "status": "blocked",
+    "missing": ["amazon_link_allowed"],
+    "requires_cover": false,
+    "notes": "Reader freebie channel found with Google form, but its instructions say Amazon links are not accepted and ask for a website/blog page instead; not used because all reader acquisition must stay on Amazon."
   }
 ]
