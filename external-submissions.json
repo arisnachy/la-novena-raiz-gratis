@@ -246,5 +246,13 @@
     "missing": ["author_account"],
     "requires_cover": false,
     "notes": "Basic program is free and supports free/KU/$0.99 book deals, but requires creating an author account before adding a book."
+  },
+  {
+    "directory": "Freebooksy Editorial Submissions",
+    "url": "https://www.freebooksy.com/editorial-submissions/",
+    "status": "submitted",
+    "missing": [],
+    "requires_cover": false,
+    "notes": "Free editorial submission completed via Typeform for Fantasy / Paranormal; Amazon link used; confirmation displayed: Thanks for completing this typeform."
   }
 ]
