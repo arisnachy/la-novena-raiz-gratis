@@ -438,5 +438,37 @@
     "missing": ["live_submission_page"],
     "requires_cover": false,
     "notes": "No-cost promotion page is listed as an Amazon-friendly reader link option, but the live URL ended the connection unexpectedly."
+  },
+  {
+    "directory": "eBookStage Free Promotion",
+    "url": "https://www.ebookstage.com/how-to-promote-your-ebook",
+    "status": "blocked",
+    "missing": ["author_account", "affiliate_points_or_payment"],
+    "requires_cover": false,
+    "notes": "Free promotion exists for Amazon books, including free ebooks, but requires registered author account and 120 affiliate points or a $12 payment before review."
+  },
+  {
+    "directory": "Book Basset Guaranteed Freebie Post",
+    "url": "https://newsletter.bookbasset.com/s/guaranteed-freebie",
+    "status": "blocked",
+    "missing": ["payment", "review_count_evidence", "rating_evidence"],
+    "requires_cover": false,
+    "notes": "Amazon.com Kindle-only freebie slot costs $9 and requires at least 3.8 stars with 10+ Amazon reviews; no verified evidence available."
+  },
+  {
+    "directory": "James H. Mayfield Free Amazon eBook Promotion",
+    "url": "https://jameshmayfield.com/book-promotions/",
+    "status": "blocked",
+    "missing": ["payment"],
+    "requires_cover": false,
+    "notes": "Service targets free Amazon eBooks across social media/forums/front page, but the Complete VA Package costs $16 and requires payment before form submission."
+  },
+  {
+    "directory": "AskDavid Free eBook Promotion",
+    "url": "http://askdavid.com/free-ebook-promotion",
+    "status": "blocked",
+    "missing": ["dns_resolution"],
+    "requires_cover": false,
+    "notes": "Historical free ebook promotion route is Amazon-friendly, but askdavid.com did not resolve during live checks."
   }
 ]
