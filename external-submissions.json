@@ -366,5 +366,45 @@
     "missing": ["dns_resolution"],
     "requires_cover": false,
     "notes": "Unfiltered listing is described as fast/easy/free for sale announcements, but live checks for add-book and add-book-form-unfiltered failed because bookoftheday.org did not resolve."
+  },
+  {
+    "directory": "PixelScroll Author Promotion",
+    "url": "https://pixelscroll.com/advertise-with-us",
+    "status": "blocked",
+    "missing": ["live_author_submission_page"],
+    "requires_cover": false,
+    "notes": "Reader deal site lists free and bargain books and invites authors to promote to daily email readers, but the author advertising URL returned 404."
+  },
+  {
+    "directory": "eReaderGirl Promote Your Ebook",
+    "url": "https://www.ereadergirl.com/promote-your-ebook/",
+    "status": "blocked",
+    "missing": ["live_promotion_page"],
+    "requires_cover": false,
+    "notes": "Reader deal site invites authors to submit free or bargain deals, but the live promotion URL ended the connection unexpectedly."
+  },
+  {
+    "directory": "Reading Deals Author Submission",
+    "url": "https://readingdeals.com/submit-ebook",
+    "status": "blocked",
+    "missing": ["usable_submission_form"],
+    "requires_cover": false,
+    "notes": "Reader deal site promotes free/bargain books, but submit/advertise endpoints returned only a minimal response without a usable form; paid endpoint is labeled paid."
+  },
+  {
+    "directory": "BookSpry Promote Your Book",
+    "url": "https://www.bookspry.com/promote-your-book/",
+    "status": "blocked",
+    "missing": ["payment", "genre_fit"],
+    "requires_cover": false,
+    "notes": "Promotion page reaches newsletter readers, but current options are paid ($42/$65) and the legacy form says it is for Romance or related genres; fantasy is routed to the author platform."
+  },
+  {
+    "directory": "WritersPayItForward Free Book Promotion",
+    "url": "https://writerspayitforward.com/product/free-book-promotion/",
+    "status": "blocked",
+    "missing": ["in_stock", "english_language_book"],
+    "requires_cover": false,
+    "notes": "Free Facebook/Twitter promo is priced at $0.00 but currently out of stock and requires submitted eligible books to be written in English."
   }
 ]
