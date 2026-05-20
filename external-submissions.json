@@ -302,5 +302,29 @@
     "missing": ["amazon_link_allowed"],
     "requires_cover": false,
     "notes": "Reader freebie channel found with Google form, but its instructions say Amazon links are not accepted and ask for a website/blog page instead; not used because all reader acquisition must stay on Amazon."
+  },
+  {
+    "directory": "BookLemur Author Spotlight",
+    "url": "https://www.booklemur.com/authors/spotlight-signup.php",
+    "status": "blocked",
+    "missing": ["author_phone", "author_photo_followup"],
+    "requires_cover": false,
+    "notes": "Free Author Spotlight accepts up to five Kindle ASINs and Amazon author links, but the form rejected submission without a real phone number and says author photo instructions follow after submission."
+  },
+  {
+    "directory": "The Prolific Reader Author Sign-up",
+    "url": "https://theprolificreader.com/sign-up",
+    "status": "blocked",
+    "missing": ["open_author_signup"],
+    "requires_cover": false,
+    "notes": "Reader discovery site says authors can list a free book on Amazon, but the live sign-up page states it is not accepting new authors or books at the present time."
+  },
+  {
+    "directory": "eReaderPerks Submit Your Book Deal",
+    "url": "https://ereaderperks.com/submit-your-book-deal/",
+    "status": "blocked",
+    "missing": ["recaptcha", "amazon_only_option"],
+    "requires_cover": false,
+    "notes": "Book deal form targets eReaderPerks readers and asks for ASIN/Amazon link, but it includes reCAPTCHA and a required 'also available on' checkbox group without an Amazon-only option."
   }
 ]
