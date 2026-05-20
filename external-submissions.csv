@@ -12,3 +12,5 @@ Goodreads,https://www.goodreads.com/topic/show/1278424-post-your-free-ebook-here
 Reddit,https://www.reddit.com/submit,blocked,true,false,false,false,false,"Reddit login","Submit flow redirects to login"
 Facebook,https://www.facebook.com/sharer/sharer.php,blocked,true,false,false,false,false,"Facebook login","Share flow requires login"
 X/Twitter,https://twitter.com/intent/tweet,blocked,true,false,false,false,false,"X login","Intent redirects to login"
+Hunt4Freebies,https://www.hunt4freebies.com/submit-freebie/,submitted,false,true,false,false,false,"submitted 2026-05-20","Submitted as A Freebie with Amazon link; confirmation: A. V., Thank You for your submission"
+Book Preview Club,https://bookpreviewclub.com/free-submission-form/,blocked,false,true,true,false,false,"captcha","Free submission form exists but requires visual captcha before submit"

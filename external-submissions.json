@@ -70,5 +70,21 @@
     "missing": ["email", "author_bio", "author_country", "cover_permission"],
     "requires_cover": true,
     "notes": "Regular Listing is free; form requires name, email, author profile biography, country, book description, genre and related links."
+  },
+  {
+    "directory": "Hunt4Freebies",
+    "url": "https://www.hunt4freebies.com/submit-freebie/",
+    "status": "submitted",
+    "missing": [],
+    "requires_cover": false,
+    "notes": "Submitted as A Freebie with direct Amazon link and reader-facing description; confirmation displayed: A. V., Thank You for your submission."
+  },
+  {
+    "directory": "Book Preview Club",
+    "url": "https://bookpreviewclub.com/free-submission-form/",
+    "status": "blocked",
+    "missing": ["captcha"],
+    "requires_cover": false,
+    "notes": "Free form accepts ASIN, purchase link, FREE promotion and dates, but requires a visual captcha before submission."
   }
 ]
