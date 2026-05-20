@@ -222,5 +222,29 @@
     "missing": ["author_photo"],
     "requires_cover": false,
     "notes": "Free interview exists with social promotion, but requires author photo and Google form submission; not completed without author-provided image."
+  },
+  {
+    "directory": "My Book Place Author Interview",
+    "url": "https://mybookplace.net/author-interview/",
+    "status": "blocked",
+    "missing": ["human_verification"],
+    "requires_cover": false,
+    "notes": "Free Interview path selected with total $0.00 and Amazon link included, but final submit stopped at human verification."
+  },
+  {
+    "directory": "eReader Love",
+    "url": "https://ereaderlove.com/contact-us-submit-a-book/",
+    "status": "blocked",
+    "missing": ["live_submission_page"],
+    "requires_cover": false,
+    "notes": "FreeBookPromotions index lists a brief free-book form, but the live submission URL returned page not found."
+  },
+  {
+    "directory": "AllAuthor Free Author Program",
+    "url": "https://allauthor.com/free-author-program/",
+    "status": "blocked",
+    "missing": ["author_account"],
+    "requires_cover": false,
+    "notes": "Basic program is free and supports free/KU/$0.99 book deals, but requires creating an author account before adding a book."
   }
 ]
